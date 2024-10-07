@@ -1,0 +1,15 @@
+names:
+- Glasses
+- glasses
+- hands
+- mouth
+nc: 4
+roboflow:
+  license: CC BY 4.0
+  project: s-gciii
+  url: https://universe.roboflow.com/hkj/s-gciii/dataset/2
+  version: 2
+  workspace: hkj
+test: test\images
+train: train\images
+val: valid\images
